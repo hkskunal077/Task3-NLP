@@ -1,0 +1,3 @@
+The Python Code is writted in Google Colab Notebook environment using GPU as Accelerator.
+The packages are installed using !pip command.
+The flipkart data is read using Uploading Files on Google ColabSession Storage.
